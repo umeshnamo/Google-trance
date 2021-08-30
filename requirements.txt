@@ -1,4 +1,0 @@
-TgCrypto
-Pyrogram
-googletrans==3.1.0a0
-requests
